@@ -1,2 +1,2 @@
-# Artificial-intelligence-Ai-projects
+# Artificial intelligence
 A collection of artificial intelligence projects, examples, and resources for learning machine learning and AI fundamentals.
